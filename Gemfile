@@ -3,7 +3,7 @@ ruby '2.2.3'
 
 gem 'json', '~> 1.8'
 gem 'git', '~> 1.2'
-gem 'nokogiri', '~> 1.6'
+gem 'nokogiri', '~> 1.9'
 gem 'octokit', '~> 4.2'
 gem 'rake'
 gem 'resque', '~> 1.25'
